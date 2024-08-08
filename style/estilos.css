@@ -1,0 +1,32 @@
+.fondo {
+    background-color: rgb(226, 203, 203);
+}
+.mitexto {
+    font-size: 3em;
+    color: green;
+}
+.logo {
+    width: 60em;
+    transition: 2s;
+}
+.logo:hover {
+    width: 70em;
+}
+#menu {
+    border: 2px solid black;
+    width: 60vw;
+    margin: auto;
+    padding: 1em;
+}
+#cards {
+    background-color: blueviolet;
+    display: flex;
+    width: 85%;
+    margin: auto;
+    justify-content: center;
+}
+#art {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

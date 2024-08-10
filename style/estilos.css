@@ -1,5 +1,5 @@
 .fondo {
-    background-color: rgb(226, 203, 203);
+    background-color: rgb(179, 50, 50);
 }
 .mitexto {
     font-size: 3em;
@@ -30,3 +30,9 @@
     flex-direction: column;
     align-items: center;
 }
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #6e1717;
+    color: #333;
+    margin: 20px;
+  }
